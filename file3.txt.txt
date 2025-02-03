@@ -1,1 +1,2 @@
+This is the changes made my developer A
 this are the changes made by developer B
